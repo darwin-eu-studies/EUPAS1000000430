@@ -1,0 +1,39 @@
+﻿cohort_name,concept,code,keep
+Septal reduction therapy,Ventricular septal myectomy,45765641,TRUE
+Septal reduction therapy,Septal myectomy,37397338,TRUE
+Septal reduction therapy,Percutaneous transluminal septal myocardial ablation,4229994,TRUE
+Septal reduction therapy,Percutaneous transluminal ablation of septum of heart using chemical substance,40483085,TRUE
+Septal reduction therapy,"Non-surgical septal reduction therapy (eg, alcohol ablation), for hypertrophic obstructive cardiomyopathy; with coronary arteriograms, with or without temporary pacemaker (Deprecated)",42739918,TRUE
+Septal reduction therapy,Nonsurgical reduction of cardiac septum for hypertrophic obstructive cardiomyopathy with angiography of coronary artery,4260103,TRUE
+Septal reduction therapy,"Percutaneous transcatheter septal reduction therapy (eg, alcohol septal ablation) including temporary pacemaker insertion when performed",44816449,TRUE
+Septal reduction therapy surgical,Ventricular septal myectomy,45765641,TRUE
+Septal reduction therapy surgical,Septal myectomy,37397338,TRUE
+Septal reduction therapy surgical,Percutaneous transluminal septal myocardial ablation,4229994,TRUE
+Septal reduction therapy surgical,Percutaneous transluminal ablation of septum of heart using chemical substance,40483085,TRUE
+Septal reduction therapy non surgical,"Non-surgical septal reduction therapy (eg, alcohol ablation), for hypertrophic obstructive cardiomyopathy; with coronary arteriograms, with or without temporary pacemaker ",42739918,TRUE
+Septal reduction therapy non surgical,Nonsurgical reduction of cardiac septum for hypertrophic obstructive cardiomyopathy with angiography of coronary artery,4260103,TRUE
+Septal reduction therapy non surgical,"Percutaneous transcatheter septal reduction therapy (eg, alcohol septal ablation) including temporary pacemaker insertion when performed",44816449,TRUE
+Cardioverter defibrillator procedure,Cardioverter defibrillator procedure,4138751,TRUE
+Cardioverter defibrillator procedure,Implantation of internal cardiac defibrillator,4191948,TRUE
+Cardiac pacemaker procedure,Cardiac pacemaker procedure,4051938,TRUE
+Cardiac pacemaker procedure,Implantation of cardiac pacemaker ,4144921,TRUE
+Cardiac pacemaker procedure,Insertion of endocardial electrode for temporary cardiac pacing ,4051939,TRUE
+Cardiac pacemaker procedure,Indirect temporary cardiac pacemaker procedure,4049400,TRUE
+Cardiac pacemaker procedure,Introduction of cardiac pacemaker system via vein,4019139,TRUE
+Cardiac pacemaker procedure,"Percutaneous transcatheter septal reduction therapy (eg, alcohol septal ablation) including temporary pacemaker insertion when performed",44816449,TRUE
+Transplantation of heart,Transplantation of heart,4137127,TRUE
+Transplantation of heart,Transplanted heart present ,42538117,TRUE
+Seen by specialist or cardiologist,Seen in cardiac clinic ,4083416,TRUE
+Seen by specialist or cardiologist,Letter from specialist ,4151573,TRUE
+Seen by specialist or cardiologist,Letter from consultant,4078131,TRUE
+Seen by specialist or cardiologist,Seen by cardiologist ,4139722,TRUE
+Seen by specialist or cardiologist,Referral to cardiology service ,4080077,TRUE
+Seen by specialist or cardiologist,Referral to cardiologist,4204664,TRUE
+Cardiac pacemaker procedure,Complete removal of implanted cardiac pacemaker system,4019140,FALSE
+Cardiac pacemaker procedure,Removal of implanted cardiac pacemaker system or components,4050575,FALSE
+Cardiac pacemaker procedure,Removal of cardioverter/defibrillator pulse generator without replacement,4228672,FALSE
+Cardioverter defibrillator procedure,External ventricular defibrillation,4138468,FALSE
+Cardioverter defibrillator procedure,Removal of internal cardiac defibrillator,4216485,FALSE
+Cardioverter defibrillator procedure,Removal of subcutaneous cardioverter defibrillator,44810459,FALSE
+Transplanted heart valve present,Transplanted heart valve present ,42538119,TRUE
+Screening for cardiovascular system disease,Screening for cardiovascular system disease,4102739,TRUE

@@ -1,0 +1,35 @@
+﻿cohort_name,concept,code,keep
+Heart ventricle Left outflow tract,Heart ventricle Left outflow tract,1031031,TRUE
+Left ventricular Ejection fraction,Left ventricular Ejection fraction,3027172,TRUE
+Left ventricular Ejection fraction,Cardiac ejection fraction,4323433,TRUE
+Maximum left ventricle thickness,Maximum left ventricle thickness,1989021,TRUE
+Holter electrocardiogram,Holter monitor test interpretation,4205487,TRUE
+Holter electrocardiogram,Holter extended electrocardiographic recording,4140473,TRUE
+Exercise test,Exercise test finding,4090324,TRUE
+Exercise test,Exercise stress echocardiography,4335824,TRUE
+Exercise test,Electrocardiogram with exercise test,4261794,TRUE
+Exercise test,Exercise tolerance test,4065416,TRUE
+Genetic test,MYH7 (myosin heavy chain 7) gene variant measurement,35947206,TRUE
+Genetic test,MYBPC3 (myosin binding protein C3) gene variant measurement,35957287,TRUE
+Genetic test,"TNNT2 (troponin T2, cardiac type) gene variant measurement",35964135,TRUE
+Genetic test,"TNNI3 (troponin I3, cardiac type) gene variant measurement",35947472,TRUE
+Genetic test,TPM1 (tropomyosin 1) gene variant measurement,35946916,TRUE
+Genetic test,MYL2 (myosin light chain 2) gene variant measurement,35952884,TRUE
+Genetic test,MYL3 (myosin light chain 3) gene variant measurement,35948676,TRUE
+Genetic test,ACTC1 (actin alpha cardiac muscle 1) gene variant measurement,35952645,TRUE
+Cardiac MRI,"MRI for cardiac morphology, function, and velocity",42710005,TRUE
+Cardiac MRI,MRI of heart with contrast,42537414,TRUE
+Cardiac MRI,Cardiac MRI,4082987,TRUE
+Cardiac MRI,Magnetic resonance imaging stress study of heart with contrast,42537586,TRUE
+CT of heart with contrast,CT of heart with contrast ,35608046,TRUE
+Echocardiography,Echocardiography ,4230911,TRUE
+Echocardiography,Transesophageal echocardiography,4019824,TRUE
+Echocardiography,Ultrasound procedure on cardiovascular system,4032254,TRUE
+Echocardiography,Transthoracic echocardiography,4335825,TRUE
+Cardiac catheterization,Cardiac catheterization,4223020,TRUE
+Cardiac catheterization,"Cardiac catheterization, left heart, retrograde, percutaneous",4173410,TRUE
+Cardiac catheterization,Catheterization of right heart,4223626,TRUE
+Cardiac catheterization,Angiography of coronary artery,4142645,TRUE
+Cardiac catheterization,"Cardiac catheterization, left heart, transseptal",4284246,TRUE
+Left ventriculogram,Left ventriculogram ,4141016,TRUE
+Endomyocardial biopsy,Endomyocardial biopsy ,4308808,TRUE

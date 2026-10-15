@@ -1,0 +1,16 @@
+﻿CONCEPT_NAME,CONCEPT_ID,Ingredient,Include
+Beta blocking agents,21601665,FALSE,TRUE
+Selective calcium channel blockers with direct cardiac effects,21601765,FALSE,TRUE
+Mavacantem,779591,TRUE,TRUE
+Disopyramide systemic,21600252,FALSE,TRUE
+Diuretics,21601461,FALSE,TRUE
+Direct factor Xa inhibitors,43534760,FALSE,TRUE
+Vitamin K antagonists,21600962,FALSE,TRUE
+ACE inhibitors plain,21601784,FALSE,TRUE
+Angiotensin II receptor blockers plain,21601823,FALSE,TRUE
+Aldosterone antagonists,21601533,FALSE,TRUE
+Platelet aggregation inhibitors excluding Heparin,21600985,FALSE,TRUE
+Digoxin systemic,21600234,FALSE,TRUE
+Amiodarone systemic,21600270,FALSE,TRUE
+Heparin group,21600972,FALSE,TRUE
+enoxaparin,1301025,TRUE,TRUE

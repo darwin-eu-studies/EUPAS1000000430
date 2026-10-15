@@ -1,0 +1,389 @@
+﻿cohort_name,concept,code,keep
+Aberrant premature complexes,Aberrant premature complexes,4091901,TRUE
+Aberrant premature complexes,Ventricular premature complex ,4089462,TRUE
+Aberrant premature complexes,Atrial premature complex ,4115173,TRUE
+Atrial fibrillation,Atrial fibrillation,313217,TRUE
+Atrial fibrillation,Paroxysmal atrial fibrillation ,4154290,TRUE
+Atrial fibrillation,Persistent atrial fibrillation ,4232697,TRUE
+Atrial fibrillation,Chronic atrial fibrillation ,4141360,TRUE
+Atrial fibrillation,Atrial fibrillation and flutter ,4108832,TRUE
+Atrial fibrillation,Permanent atrial fibrillation,4232691,TRUE
+Atrioventricular block,Atrioventricular block,316135,TRUE
+Atrioventricular block,Complete atrioventricular block ,320744,TRUE
+Atrioventricular block,First degree atrioventricular block ,314379,TRUE
+Atrioventricular block,Second degree atrioventricular block ,318448,TRUE
+Cardiac arrhythmia,Cardiac arrhythmia ,44784217,TRUE
+Cardiac arrhythmia,Atrial arrhythmia ,4068155,TRUE
+Cardiac arrhythmia,Supraventricular tachycardia,4275423,TRUE
+Cardiac arrhythmia,Typical atrial flutter,36714994,TRUE
+Cardiac arrhythmia,Left bundle branch block ,316998,TRUE
+Cardiac arrhythmia,Right bundle branch block ,314059,TRUE
+Cardiac arrhythmia,Left anterior fascicular block ,4295336,TRUE
+Cardiac arrhythmia,Sick sinus syndrome ,4261842,TRUE
+Cardiac arrhythmia,Re-entry ventricular arrhythmia ,4111552,TRUE
+Cardiac arrhythmia,Bifascicular block ,4250169,TRUE
+Cardiac arrhythmia,Arrhythmia during surgery,37108582,TRUE
+Cardiac arrhythmia,Ventricular tachyarrhythmia,40622721,TRUE
+Cardiac arrhythmia,Sudden arrhythmic death syndrome,42536727,TRUE
+Cardiac arrhythmia,Supraventricular bradyarrhythmia,42538755,TRUE
+Cardiac arrhythmia,Cardiac arrhythmia,44784217,TRUE
+Cardiac arrhythmia,Cardiac arrhythmia in mother complicating childbirth,45757098,TRUE
+Cardiac arrhythmia,Tachyarrhythmia,315643,TRUE
+Cardiac arrhythmia,EKG: ventricular arrhythmia,4064453,TRUE
+Cardiac arrhythmia,EKG: supraventricular arrhythmia,4065287,TRUE
+Cardiac arrhythmia,Atrial arrhythmia,4068155,TRUE
+Cardiac arrhythmia,Marked sinus arrhythmia,4088347,TRUE
+Cardiac arrhythmia,Re-entry ventricular arrhythmia,4111552,TRUE
+Cardiac arrhythmia,ECG: sinus arrhythmia,4141820,TRUE
+Cardiac arrhythmia,Ventricular arrhythmia,4185572,TRUE
+Cardiac arrhythmia,Bradyarrhythmia,4228448,TRUE
+Cardiac arrhythmia,AV node arrhythmia,4228836,TRUE
+Cardiac arrhythmia,Supraventricular arrhythmia,4248028,TRUE
+Cardiac arrhythmia,Normal sinus arrhythmia,4313053,TRUE
+Cardiac arrhythmia,Premature beats,316429,TRUE
+Cardiac arrhythmia,Nodal rhythm disorder,4217221,TRUE
+Cardiac arrhythmia,Neonatal dysrhythmia,4173170,TRUE
+Cardiac arrhythmia,Left bundle branch hemiblock,313209,TRUE
+Cardiac arrhythmia,Atrial fibrillation,313217,TRUE
+Cardiac arrhythmia,Anomalous atrioventricular excitation,313224,TRUE
+Cardiac arrhythmia,Mobitz type II atrioventricular block,313780,TRUE
+Cardiac arrhythmia,Bundle branch block,313791,TRUE
+Cardiac arrhythmia,Paroxysmal tachycardia,313792,TRUE
+Cardiac arrhythmia,Right bundle branch block,314059,TRUE
+Cardiac arrhythmia,First degree atrioventricular block,314379,TRUE
+Cardiac arrhythmia,Long QT syndrome,314664,TRUE
+Cardiac arrhythmia,Atrial flutter,314665,TRUE
+Cardiac arrhythmia,Atrioventricular block,316135,TRUE
+Cardiac arrhythmia,Right bundle branch block AND left anterior fascicular block,316432,TRUE
+Cardiac arrhythmia,Left bundle branch block,316998,TRUE
+Cardiac arrhythmia,Conduction disorder of the heart,316999,TRUE
+Cardiac arrhythmia,Sinus node dysfunction,317302,TRUE
+Cardiac arrhythmia,Paroxysmal supraventricular tachycardia,317893,TRUE
+Cardiac arrhythmia,Second degree atrioventricular block,318448,TRUE
+Cardiac arrhythmia,Heart block,320425,TRUE
+Cardiac arrhythmia,Complete atrioventricular block,320744,TRUE
+Cardiac arrhythmia,Trifascicular block,321315,TRUE
+Cardiac arrhythmia,Bilateral bundle branch block,321587,TRUE
+Cardiac arrhythmia,Right bundle branch block AND left posterior fascicular block,321590,TRUE
+Cardiac arrhythmia,Paroxysmal ventricular tachycardia,437579,TRUE
+Cardiac arrhythmia,Ventricular fibrillation,437894,TRUE
+Cardiac arrhythmia,Supraventricular premature beats,441872,TRUE
+Cardiac arrhythmia,Neonatal bradycardia,443522,TRUE
+Cardiac arrhythmia,Neonatal tachycardia,443523,TRUE
+Cardiac arrhythmia,Ventricular bigeminy,4008580,TRUE
+Cardiac arrhythmia,Multifocal PVCs,4023336,TRUE
+Cardiac arrhythmia,Sinoatrial arrest with nodal/ventricular escape,4028322,TRUE
+Cardiac arrhythmia,Fusion beats,4029303,TRUE
+Cardiac arrhythmia,"Right bundle branch block, posterior fascicular block AND incomplete left bundle branch block",4032785,TRUE
+Cardiac arrhythmia,Monofascicular block,4034164,TRUE
+Cardiac arrhythmia,AV junctional rhythm,4038688,TRUE
+Cardiac arrhythmia,Accelerated atrioventricular conduction,4057008,TRUE
+Cardiac arrhythmia,Ventricular premature beats,4066289,TRUE
+Cardiac arrhythmia,Atrioventricular tachycardia,4081675,TRUE
+Cardiac arrhythmia,Sinus arrest with junctional escape,4088210,TRUE
+Cardiac arrhythmia,Intermittent second degree atrioventricular block,4088332,TRUE
+Cardiac arrhythmia,Incomplete left bundle branch block,4088336,TRUE
+Cardiac arrhythmia,Complete right bundle branch block,4088337,TRUE
+Cardiac arrhythmia,Incomplete right bundle branch block,4088338,TRUE
+Cardiac arrhythmia,Slow ventricular response,4088350,TRUE
+Cardiac arrhythmia,Junctional premature complex,4088351,TRUE
+Cardiac arrhythmia,Sinus arrest with atrial escape,4088352,TRUE
+Cardiac arrhythmia,Minor intraventricular conduction defect,4088496,TRUE
+Cardiac arrhythmia,AV junctional (nodal) arrest,4088502,TRUE
+Cardiac arrhythmia,AV junctional (nodal) tachycardia,4088503,TRUE
+Cardiac arrhythmia,Atrial bigeminy,4088504,TRUE
+Cardiac arrhythmia,Ventricular trigeminy,4088505,TRUE
+Cardiac arrhythmia,Ventricular quadrigeminy,4088506,TRUE
+Cardiac arrhythmia,Ventricular escape complex,4088507,TRUE
+Cardiac arrhythmia,AV-junctional (nodal) bradycardia,4088983,TRUE
+Cardiac arrhythmia,Blocked premature atrial contraction,4088984,TRUE
+Cardiac arrhythmia,Multiple premature ventricular complexes,4088985,TRUE
+Cardiac arrhythmia,Atrial escape complex,4088986,TRUE
+Cardiac arrhythmia,Atrial parasystole,4088987,TRUE
+Cardiac arrhythmia,AV nodal re-entry tachycardia,4089459,TRUE
+Cardiac arrhythmia,Multiple atrial premature complexes,4089460,TRUE
+Cardiac arrhythmia,Run of atrial premature complexes,4089461,TRUE
+Cardiac arrhythmia,Ventricular premature complex,4089462,TRUE
+Cardiac arrhythmia,Multiple ventricular interpolated complexes,4089463,TRUE
+Cardiac arrhythmia,Paired ventricular premature complexes,4089464,TRUE
+Cardiac arrhythmia,Sinus arrest with ventricular escape,4091446,TRUE
+Cardiac arrhythmia,Junctional ectopic tachycardia,4091899,TRUE
+Cardiac arrhythmia,Aberrant premature complexes,4091901,TRUE
+Cardiac arrhythmia,Supraventricular bigeminy,4091902,TRUE
+Cardiac arrhythmia,Atrial trigeminy,4091903,TRUE
+Cardiac arrhythmia,Run of ventricular premature complexes,4091904,TRUE
+Cardiac arrhythmia,Ventricular interpolated complexes,4092010,TRUE
+Cardiac arrhythmia,Aberrantly conducted complex,4092011,TRUE
+Cardiac arrhythmia,Chronic ectopic atrial tachycardia,4098133,TRUE
+Cardiac arrhythmia,Unifocal PVCs,4099778,TRUE
+Cardiac arrhythmia,Asymptomatic sinoatrial node dysfunction,4102252,TRUE
+Cardiac arrhythmia,Vagal autonomic bradycardia,4106715,TRUE
+Cardiac arrhythmia,Paroxysmal atrioventricular tachycardia,4108241,TRUE
+Cardiac arrhythmia,Ventricular pre-excitation,4108828,TRUE
+Cardiac arrhythmia,Atrial paroxysmal tachycardia,4108830,TRUE
+Cardiac arrhythmia,Atrial fibrillation and flutter,4108832,TRUE
+Cardiac arrhythmia,Premature atrial contraction,4109365,TRUE
+Cardiac arrhythmia,Left main stem bundle branch block,4111543,TRUE
+Cardiac arrhythmia,Paroxysmal junctional tachycardia,4111546,TRUE
+Cardiac arrhythmia,Partial atrioventricular block,4111570,TRUE
+Cardiac arrhythmia,Paroxysmal nodal tachycardia,4111698,TRUE
+Cardiac arrhythmia,Ventricular fibrillation and flutter,4111700,TRUE
+Cardiac arrhythmia,Atrial premature complex,4115173,TRUE
+Cardiac arrhythmia,Controlled atrial fibrillation,4117112,TRUE
+Cardiac arrhythmia,Lone atrial fibrillation,4119601,TRUE
+Cardiac arrhythmia,Non-rheumatic atrial fibrillation,4119602,TRUE
+Cardiac arrhythmia,Postoperative complete heart block,4119605,TRUE
+Cardiac arrhythmia,Sinoatrial node tachycardia,4120084,TRUE
+Cardiac arrhythmia,Supraventricular tachycardia with functional bundle branch block,4120085,TRUE
+Cardiac arrhythmia,His bundle tachycardia,4120086,TRUE
+Cardiac arrhythmia,Unidirectional retrograde accessory pathway,4120087,TRUE
+Cardiac arrhythmia,Ectopic atrial tachycardia,4121479,TRUE
+Cardiac arrhythmia,Ectopic atrioventricular node tachycardia,4121480,TRUE
+Cardiac arrhythmia,Antidromic atrioventricular re-entrant tachycardia,4121481,TRUE
+Cardiac arrhythmia,Re-entrant atrial tachycardia,4124696,TRUE
+Cardiac arrhythmia,Incessant atrial tachycardia,4124697,TRUE
+Cardiac arrhythmia,Re-entrant atrioventricular node tachycardia,4124698,TRUE
+Cardiac arrhythmia,Re-entrant atrioventricular tachycardia,4124699,TRUE
+Cardiac arrhythmia,Orthodromic atrioventricular re-entrant tachycardia,4124700,TRUE
+Cardiac arrhythmia,Postoperative His bundle tachycardia,4124701,TRUE
+Cardiac arrhythmia,Permanent junctional reciprocating tachycardia,4124702,TRUE
+Cardiac arrhythmia,Postoperative sinus node dysfunction,4124704,TRUE
+Cardiac arrhythmia,Chronic atrial flutter,4137382,TRUE
+Cardiac arrhythmia,"Right bundle branch block, anterior fascicular block AND posterior fascicular block",4138545,TRUE
+Cardiac arrhythmia,Right bundle branch block with left bundle branch block,4138973,TRUE
+Cardiac arrhythmia,Chronic atrial fibrillation,4141360,TRUE
+Cardiac arrhythmia,Ectopic beats,4143042,TRUE
+Cardiac arrhythmia,Paroxysmal atrial flutter,4146580,TRUE
+Cardiac arrhythmia,Lev's syndrome,4153404,TRUE
+Cardiac arrhythmia,Paroxysmal atrial fibrillation,4154290,TRUE
+Cardiac arrhythmia,Ectopic rhythm,4164083,TRUE
+Cardiac arrhythmia,Junctional escape beats,4166380,TRUE
+Cardiac arrhythmia,Intraventricular conduction defect,4166844,TRUE
+Cardiac arrhythmia,Severe sinus bradycardia,4169261,TRUE
+Cardiac arrhythmia,Idioventricular rhythm,4171193,TRUE
+Cardiac arrhythmia,Atrial tachycardia,4171269,TRUE
+Cardiac arrhythmia,Sinus bradycardia,4171683,TRUE
+Cardiac arrhythmia,Left atrial incisional tachycardia,4171887,TRUE
+Cardiac arrhythmia,Atrioventricular dissociation,4175473,TRUE
+Cardiac arrhythmia,Multifocal atrial tachycardia,4176112,TRUE
+Cardiac arrhythmia,Right bundle branch block AND incomplete left bundle branch block,4184950,TRUE
+Cardiac arrhythmia,Stokes-Adams syndrome,4188347,TRUE
+Cardiac arrhythmia,Paroxysmal atrial tachycardia with block,4190306,TRUE
+Cardiac arrhythmia,Nonparoxysmal AV nodal tachycardia,4191222,TRUE
+Cardiac arrhythmia,Rapid atrial fibrillation,4199501,TRUE
+Cardiac arrhythmia,Mobitz type I incomplete atrioventricular block,4205137,TRUE
+Cardiac arrhythmia,Sinus arrest,4210313,TRUE
+Cardiac arrhythmia,"Right bundle branch block, anterior fascicular block AND incomplete posterior fascicular block",4217860,TRUE
+Cardiac arrhythmia,Ventricular escape rhythm,4218242,TRUE
+Cardiac arrhythmia,Junctional premature beats,4218739,TRUE
+Cardiac arrhythmia,Irregular tachycardia,4221549,TRUE
+Cardiac arrhythmia,Fibrillation,4226399,TRUE
+Cardiac arrhythmia,Permanent atrial fibrillation,4232691,TRUE
+Cardiac arrhythmia,Persistent atrial fibrillation,4232697,TRUE
+Cardiac arrhythmia,Ectopic atrial beats,4236004,TRUE
+Cardiac arrhythmia,Interpolated PVCs,4243143,TRUE
+Cardiac arrhythmia,"Right bundle branch block, anterior fascicular block AND incomplete left bundle branch block",4244693,TRUE
+Cardiac arrhythmia,Ventricular parasystole,4244893,TRUE
+Cardiac arrhythmia,Accelerated idioventricular rhythm,4247537,TRUE
+Cardiac arrhythmia,"Right branch block, incomplete anterior fascicular block AND incomplete posterior fascicular block",4249027,TRUE
+Cardiac arrhythmia,Bifascicular block,4250169,TRUE
+Cardiac arrhythmia,Tachycardia-bradycardia,4254116,TRUE
+Cardiac arrhythmia,Persistent sinus bradycardia,4258998,TRUE
+Cardiac arrhythmia,Sick sinus syndrome,4261842,TRUE
+Cardiac arrhythmia,Tic-tac rhythm,4262389,TRUE
+Cardiac arrhythmia,Complete left bundle branch block,4267892,TRUE
+Cardiac arrhythmia,Left posterior fascicular block,4268046,TRUE
+Cardiac arrhythmia,Multifocal premature beats,4271464,TRUE
+Cardiac arrhythmia,Supraventricular tachycardia,4275423,TRUE
+Cardiac arrhythmia,Sinoatrial block,4277903,TRUE
+Cardiac arrhythmia,"Right bundle branch block, posterior fascicular block AND incomplete anterior fascicular block",4280348,TRUE
+Cardiac arrhythmia,Left anterior fascicular block,4295336,TRUE
+Cardiac arrhythmia,"Anterior fascicular block, posterior fascicular block AND incomplete right bundle branch block",4296729,TRUE
+Cardiac arrhythmia,Incomplete atrioventricular block with atrioventricular response,4298806,TRUE
+Cardiac arrhythmia,Cardiac arrest due to pacemaker failure,4301015,TRUE
+Cardiac arrhythmia,Right atrial incisional tachycardia,4302802,TRUE
+Cardiac arrhythmia,Catecholaminergic polymorphic ventricular tachycardia,4303238,TRUE
+Cardiac arrhythmia,Sinoatrial nodal reentrant tachycardia,4303256,TRUE
+Cardiac arrhythmia,Diffuse intraventricular block,4304839,TRUE
+Cardiac arrhythmia,Atrioventricular conduction disorder,4305210,TRUE
+Cardiac arrhythmia,Idiojunctional tachycardia,4320474,TRUE
+Cardiac arrhythmia,Sustained ventricular fibrillation,4325850,TRUE
+Cardiac arrhythmia,Ventricular escape beat,4327066,TRUE
+Cardiac arrhythmia,Atypical atrial flutter,36712986,TRUE
+Cardiac arrhythmia,Typical atrial flutter,36714994,TRUE
+Cardiac arrhythmia,Chronic atrial and intestinal dysrhythmia,36715042,TRUE
+Cardiac arrhythmia,Idiopathic ventricular fibrillation not Brugada type,37109917,TRUE
+Cardiac arrhythmia,Acquired complete atrioventricular block,37116420,TRUE
+Cardiac arrhythmia,Acquired Brugada syndrome,37312140,TRUE
+Cardiac arrhythmia,Scar mediated macro re-entrant atrial tachycardia,37312595,TRUE
+Cardiac arrhythmia,Idiopathic neonatal atrial flutter,37395937,TRUE
+Cardiac arrhythmia,Long QT syndrome caused by drug,37396235,TRUE
+Cardiac arrhythmia,Acquired long QT syndrome,40479264,TRUE
+Cardiac arrhythmia,Symptomatic sinus bradycardia,40480216,TRUE
+Cardiac arrhythmia,Heart block due to drug,40481891,TRUE
+Cardiac arrhythmia,Bundle branch reentrant ventricular tachycardia,40484036,TRUE
+Cardiac arrhythmia,Macro re-entrant atrial tachycardia,42536724,TRUE
+Cardiac arrhythmia,Cavotricuspid isthmus dependent macroreentry tachycardia,42536725,TRUE
+Cardiac arrhythmia,Atrioventricular reciprocating tachycardia,42536726,TRUE
+Cardiac arrhythmia,Non-cavotricuspid isthmus dependent atrial tachycardia,42539038,TRUE
+Cardiac arrhythmia,Preexcited atrial fibrillation,42539346,TRUE
+Cardiac arrhythmia,Atrial standstill,42872924,TRUE
+Cardiac arrhythmia,High degree second degree atrioventricular block,43020494,TRUE
+Cardiac arrhythmia,Postoperative atrioventricular block,43020495,TRUE
+Cardiac arrhythmia,Atrioventricular block due to endocarditis,43020929,TRUE
+Cardiac arrhythmia,Atrial fibrillation with rapid ventricular response,44782442,TRUE
+Cardiac arrhythmia,"Progressive familial heart block, type II",44782643,TRUE
+Cardiac arrhythmia,Nonsustained paroxysmal ventricular tachycardia,44782707,TRUE
+Cardiac arrhythmia,Nonsustained paroxysmal supraventricular tachycardia,44782789,TRUE
+Cardiac arrhythmia,Non-specific intraventricular conduction delay,44784220,TRUE
+Cardiac arrhythmia,Short QT syndrome,44784236,TRUE
+Cardiac arrhythmia,Longstanding persistent atrial fibrillation,45768480,TRUE
+Cardiac arrhythmia,Complete atrioventricular block as complication of atrioventricular nodal ablation,46269694,TRUE
+Cardiac arrhythmia,Mahaim fiber tachycardia,46272503,TRUE
+Cardiac arrhythmia,HHS - holiday heart syndrome,46284985,TRUE
+Cardiac arrhythmia,ECG: atrial fibrillation,4064452,TRUE
+Cardiac arrhythmia,Ventricular tachycardia,4103295,TRUE
+Cardiac arrhythmia,EKG: left bundle branch block,4064614,TRUE
+Cardiac arrhythmia,EKG: atrial flutter,4065288,TRUE
+Cardiac arrhythmia,EKG: right bundle branch block,4064460,TRUE
+Cardiac arrhythmia,EKG: heart block,4064457,TRUE
+Cardiac arrhythmia,Electrocardiogram: paroxysmal atrial tachycardia,4064869,TRUE
+Cardiac arrhythmia,Mobitz type I second degree atrioventricular block on electrocardiogram,4064459,TRUE
+Cardiac arrhythmia,Bifascicular block on electrocardiogram,40483798,TRUE
+Cardiac arrhythmia,Trifascicular block on electrocardiogram,40482938,TRUE
+Cardiac arrhythmia,EKG: Mobitz type II atrioventricular block,4138921,TRUE
+Cardiac arrhythmia,ECG: ventricular ectopics,4064612,TRUE
+Cardiac arrhythmia,EKG: atrial ectopics,4065285,TRUE
+Cardiac arrhythmia,Left anterior fascicular block on electrocardiogram,40482086,TRUE
+Cardiac arrhythmia,ECG: partial atrioventricular block - long PR,4064873,TRUE
+Cardiac arrhythmia,ECG: ectopic beats,4064867,TRUE
+Cardiac arrhythmia,Ventricular flutter,433225,TRUE
+Cardiac arrhythmia,EKG: ventricular fibrillation,4064455,TRUE
+Cardiac arrhythmia,Right bundle branch block and left anterior fascicular block on electrocardiogram,40482887,TRUE
+Cardiac arrhythmia,EKG: complete atrioventricular block,4064874,TRUE
+Cardiac arrhythmia,ECG: partial atrioventricular block - 2:1,4065290,TRUE
+Chronic kidney disease,Chronic kidney disease,46271022,TRUE
+Chronic kidney disease,Chronic kidney disease stage 3 ,443597,TRUE
+Chronic kidney disease,Chronic kidney disease stage 2 ,443601,TRUE
+Chronic kidney disease,Chronic kidney disease stage 4 ,443612,TRUE
+Chronic kidney disease,Chronic kidney disease stage 5 ,443611,TRUE
+Chronic kidney disease,Chronic renal failure ,198185,TRUE
+Chronic kidney disease,Chronic kidney disease due to hypertension ,44782429,TRUE
+Chronic kidney disease,Hypertensive heart and chronic kidney disease ,44784621,TRUE
+Chronic kidney disease,Chronic kidney disease due to type 2 diabetes mellitus,43531578,TRUE
+Chronic kidney disease,Anemia in chronic kidney disease ,45768812,TRUE
+Chronic kidney disease,Chronic kidney disease stage 3B ,45763855,TRUE
+Chronic kidney disease,Chronic kidney disease stage 3A ,45763854,TRUE
+Chronic obstructive pulmonary disease,Chronic obstructive pulmonary disease,255573,TRUE
+Chronic obstructive pulmonary disease,Chronic obstructive pulmonary disease with acute lower respiratory infection ,4110056,TRUE
+Chronic obstructive pulmonary disease,Moderate chronic obstructive pulmonary disease ,4193588,TRUE
+Chronic obstructive pulmonary disease,Acute exacerbation of chronic obstructive pulmonary disease ,257004,TRUE
+Chronic obstructive pulmonary disease,Acute exacerbation of chronic obstructive airways disease,257004,TRUE
+Coronary arteriosclerosis,Coronary arteriosclerosis ,317576,TRUE
+Disorder of lipoprotein AND OR lipid metabolism,Disorder of lipoprotein AND/OR lipid metabolism,4170226,TRUE
+Disorder of lipoprotein AND OR lipid metabolism,Disorder of lipid metabolism,437530,TRUE
+Disorder of lipoprotein AND OR lipid metabolism,Pure hypercholesterolemia ,437827,TRUE
+Disorder of lipoprotein AND OR lipid metabolism,Hyperlipidemia,432867,TRUE
+Disorder of lipoprotein AND OR lipid metabolism,Mixed hyperlipidemia ,438720,TRUE
+Disorder of lipoprotein AND OR lipid metabolism,Pure hyperglyceridemia ,440360,TRUE
+Disorder of lipoprotein AND OR lipid metabolism,Hyperglycemia due to type 2 diabetes mellitus,37016349,TRUE
+Essential hypertension,Essential hypertension,320128,TRUE
+Essential hypertension,Hypertensive disorder ,316866,TRUE
+Heart failure,Heart failure,316139,TRUE
+Heart failure,Hypertensive heart disease with congestive heart failure ,314378,TRUE
+Heart failure,Congestive heart failure ,319835,TRUE
+Heart failure,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure ,439694,TRUE
+Heart failure,Diastolic heart failure ,443587,TRUE
+Heart failure,Hypertensive heart failure ,444101,TRUE
+Heart failure,Left heart failure ,439846,TRUE
+Heart failure,Hypertensive heart and renal disease with (congestive) heart failure ,439696,TRUE
+Heart failure,Chronic diastolic heart failure ,40479576,TRUE
+Heart failure,Acute on chronic systolic heart failure ,40480602,TRUE
+Heart failure,Right ventricular failure ,4273632,TRUE
+Heart failure,Postpartum cardiomyopathy,312383,FALSE
+Heart failure,Kyphoscoliotic heart disease,317000,FALSE
+Heart failure,Congenital cardiac failure,4071869,FALSE
+Heart failure,Neonatal cardiac failure,4172864,FALSE
+Heart failure,Rheumatic left ventricular failure,4184497,FALSE
+Heart failure,Cardiac asthma,4215802,FALSE
+Ischaemic stroke,Ischaemic stroke,35826270,TRUE
+Ischaemic stroke,Cerebral infarction,443454,TRUE
+Ischaemic stroke,Transient cerebral ischemia,373503,TRUE
+Ischaemic stroke,Cerebral ischemia,374384,TRUE
+Ischaemic stroke,Cerebrovascular accident ,381316,TRUE
+Ischemic heart disease,Ischemic heart disease,4185932,TRUE
+Ischemic heart disease,Chronic ischemic heart disease ,315286,TRUE
+Ischemic heart disease,Left heart failure ,439846,TRUE
+Ischemic heart disease,Acute non-ST segment elevation myocardial infarction ,4270024,TRUE
+Ischemic heart disease,Acute myocardial infarction,312327,TRUE
+Ischemic heart disease,Generalized ischemic myocardial dysfunction ,4110961,TRUE
+Ischemic heart disease,Acute coronary syndrome ,4215140,TRUE
+Ischemic heart disease,Angina pectoris ,321318,TRUE
+Ischemic heart disease,Biventricular congestive heart failure,4242669,TRUE
+Ischemic heart disease,Old myocardial infarction,314666,FALSE
+Obesity,Obesity,433736,TRUE
+Obesity,Simple obesity ,4217557,TRUE
+Obesity,Obesity ,433736,TRUE
+Obesity,Extreme obesity with alveolar hypoventilation,4100857,TRUE
+Obesity,Hypertrophy of fat pad of knee,380500,FALSE
+Obesity,Childhood obesity,40481140,FALSE
+Obesity,Drug-induced obesity,4097996,FALSE
+Obesity,Alstrom syndrome,4270189,FALSE
+Premature atrial contraction,Premature atrial contraction,4109365,TRUE
+Cardiac arrhythmia,Sick sinus syndrome,4261842,TRUE
+Sudden cardiac death,Sudden cardiac death,4317150,TRUE
+Sustained ventricular tachycardia,Sustained ventricular tachycardia , 4139206,TRUE
+Sustained ventricular tachycardia,Ventricular tachycardia ,4103295,TRUE
+Type 2 diabetis mellitus,Type 2 diabetis mellitus,201826,TRUE
+Type 2 diabetis mellitus,Type 2 diabetes mellitus without complication ,4193704,TRUE
+Type 2 diabetis mellitus,Disorder due to type 2 diabetes mellitus ,443732,TRUE
+Type 2 diabetis mellitus,Renal disorder due to type 2 diabetes mellitus ,443731,TRUE
+Type 2 diabetis mellitus,Polyneuropathy due to diabetes mellitus ,376112,TRUE
+Type 2 diabetis mellitus,Disorder of nervous system due to type 2 diabetes mellitus ,376065,TRUE
+Type 2 diabetis mellitus,Hyperglycemia due to type 2 diabetes mellitus ,37016349,TRUE
+Type 2 diabetis mellitus,Chronic kidney disease due to type 2 diabetes mellitus ,43531578,TRUE
+Type 2 diabetis mellitus,Disorder of eye due to type 2 diabetes mellitus,443733,TRUE
+Type 2 diabetis mellitus,Hyperosmolar coma due to type 2 diabetes mellitus,201530,TRUE
+Type 2 diabetis mellitus,Hypoglycemic coma due to type 2 diabetes mellitus,36714116,TRUE
+Type 2 diabetis mellitus,Polyneuropathy due to type 2 diabetes mellitus,37017432,TRUE
+Type 2 diabetis mellitus,Gastroparesis due to type 2 diabetes mellitus,37018728,TRUE
+Type 2 diabetis mellitus,Disorder of nervous system due to type 2 diabetes mellitus,376065,TRUE
+Type 2 diabetis mellitus,Multiple complications due to type 2 diabetes mellitus,4099216,TRUE
+Type 2 diabetis mellitus,Arthropathy due to type 2 diabetes mellitus,4196141,TRUE
+Type 2 diabetis mellitus,Type 2 diabetes mellitus with peripheral angiopathy,4200875,TRUE
+Type 2 diabetis mellitus,Hyperosmolar non-ketotic state due to type 2 diabetes mellitus,4215719,TRUE
+Type 2 diabetis mellitus,Persistent microalbuminuria due to type 2 diabetes mellitus,4221487,TRUE
+Type 2 diabetis mellitus,Cataract due to diabetes mellitus type 2,4221495,TRUE
+Type 2 diabetis mellitus,Mononeuropathy due to type 2 diabetes mellitus,4222415,TRUE
+Type 2 diabetis mellitus,Gangrene due to type 2 diabetes mellitus,4222876,TRUE
+Type 2 diabetis mellitus,Exudative maculopathy due to type 2 diabetes mellitus,4223463,TRUE
+Type 2 diabetis mellitus,Persistent proteinuria due to type 2 diabetes mellitus,4223739,TRUE
+Type 2 diabetis mellitus,Retinopathy due to type 2 diabetes mellitus,4226121,TRUE
+Type 2 diabetis mellitus,Ketoacidotic coma due to type 2 diabetes mellitus,4228443,TRUE
+Type 2 diabetis mellitus,Neuropathic arthropathy due to type 2 diabetes mellitus,43531563,TRUE
+Type 2 diabetis mellitus,Peripheral circulatory disorder due to type 2 diabetes mellitus,443729,TRUE
+Type 2 diabetis mellitus,Renal disorder due to type 2 diabetes mellitus,443731,TRUE
+Type 2 diabetis mellitus,Disorder due to type 2 diabetes mellitus,443732,TRUE
+Type 2 diabetis mellitus,Disorder of eye due to type 2 diabetes mellitus,443733,TRUE
+Type 2 diabetis mellitus,Ketoacidosis due to type 2 diabetes mellitus,443734,TRUE
+Type 2 diabetis mellitus,Type II diabetes mellitus in remission,45766052,FALSE
+Valvular heart disease,Valvular heart disease,40399388,TRUE
+Valvular heart disease,Aortic valve stenosis,4189343,TRUE
+Valvular heart disease,Mitral valve regurgitation,443962,TRUE
+Valvular heart disease,Aortic valve regurgitation,315564,TRUE
+Valvular heart disease,Aortic valve stenosis with insufficiency,4111099,TRUE
+Valvular heart disease,Disorders of both mitral and tricuspid valves,4111566,TRUE
+Valvular heart disease,Transplanted heart valve present,42538119,TRUE
+Valvular heart disease,"Combined disorders of mitral, aortic and tricuspid valves",4108235,TRUE
+Valvular heart disease,Aortic valve disorder,314054,TRUE
+Valvular heart disease,"Tricuspid incompetence, non-rheumatic",4111412,TRUE
+Valvular heart disease,Transplanted heart valve present ,42538119,TRUE
+Valvular heart disease,Non-rheumatic mitral valve stenosis with regurgitation,45766207,TRUE
+Valvular heart disease,Non-rheumatic mitral valve disease,45769461,TRUE
+Valvular heart disease,Non-rheumatic heart valve disorder ,4158911,TRUE
+Valvular heart disease,"Aortic incompetence, non-rheumatic ",4111409,TRUE
+Valvular heart disease,Non-rheumatic aortic sclerosis,4152384,TRUE
+Valvular heart disease,Multiple valve disease ,4108234,TRUE
+Valvular heart disease,"Tricuspid valve disorder, non-rheumatic ",4108817,TRUE
+Ventricular fibrillation,Ventricular fibrillation,437894,TRUE
+Ventricular fibrillation,Ventricular fibrillation and flutter ,4111700,TRUE
